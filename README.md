@@ -17,6 +17,7 @@ My go-to tools for taming infrastructure:
   <img src="https://img.shields.io/badge/-Puppet-FF8E00?logo=puppet&logoColor=white" alt="Puppet"/>
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white" alt="GitLab"/>
