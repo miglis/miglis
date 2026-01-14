@@ -28,7 +28,7 @@ My go-to tools for taming infrastructure:
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miglis&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=MigliS&theme=catppuccin-mocha&border_radius=0&mode=weekly" alt="GitHub Stats"/>
 </p>
 
 ## 🤝 Connect
